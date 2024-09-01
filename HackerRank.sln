@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "src\TimeC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "src\CompareTheTriplets\CompareTheTriplets.csproj", "{17A2E497-1C89-45C6-A32B-F883825AC06F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailMask", "src\EmailMask\EmailMask.csproj", "{B0491C32-6C8A-4E7A-B5C1-CE7A54454EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailMask", "src\EmailMask\EmailMask.csproj", "{B0491C32-6C8A-4E7A-B5C1-CE7A54454EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "src\CamelCase\CamelCase.csproj", "{E82BFEC2-3531-4DE1-8977-56630E254CD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{B0491C32-6C8A-4E7A-B5C1-CE7A54454EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0491C32-6C8A-4E7A-B5C1-CE7A54454EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0491C32-6C8A-4E7A-B5C1-CE7A54454EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82BFEC2-3531-4DE1-8977-56630E254CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82BFEC2-3531-4DE1-8977-56630E254CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82BFEC2-3531-4DE1-8977-56630E254CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82BFEC2-3531-4DE1-8977-56630E254CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{AD817980-E4A9-4C5A-8460-233F98978A2E} = {6122CB49-20FA-422A-8002-D5918D048517}
 		{17A2E497-1C89-45C6-A32B-F883825AC06F} = {6122CB49-20FA-422A-8002-D5918D048517}
 		{B0491C32-6C8A-4E7A-B5C1-CE7A54454EBB} = {6122CB49-20FA-422A-8002-D5918D048517}
+		{E82BFEC2-3531-4DE1-8977-56630E254CD4} = {6122CB49-20FA-422A-8002-D5918D048517}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1AAB478C-3996-48DA-B8E8-4483361C9D87}
